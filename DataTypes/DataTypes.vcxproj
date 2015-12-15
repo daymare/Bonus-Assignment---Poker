@@ -10,6 +10,10 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BasicTypes.h" />
+    <ClInclude Include="GameTypes.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{7B3423D1-31FE-48EC-9835-D37650BADDBA}</ProjectGuid>
     <RootNamespace>DataTypes</RootNamespace>
