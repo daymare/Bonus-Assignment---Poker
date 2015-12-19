@@ -1,5 +1,1 @@
-﻿Build started 12/14/2015 7:13:20 PM.
-
-Build succeeded.
-
-Time Elapsed 00:00:00.05
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(366,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
